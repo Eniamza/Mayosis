@@ -1,0 +1,78 @@
+a:4:{s:8:"template";s:7:"mayosis";s:4:"mods";a:118:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:9:"main-menu";i:11;s:12:"account-menu";i:98;}s:20:"header_elements_left";a:1:{i:0;s:11:"search-form";}s:22:"header_elements_center";a:0:{}s:21:"header_elements_right";a:2:{i:0;s:4:"cart";i:1;s:7:"account";}s:27:"header_mobile_elements_left";a:1:{i:0;s:4:"logo";}s:28:"header_mobile_elements_right";a:2:{i:0;s:4:"cart";i:1;s:6:"mobile";}s:35:"header_mobile_elements_sidebar_main";a:1:{i:0;s:9:"accordion";}s:15:"mayosis_version";d:2.5;s:18:"custom_css_post_id";i:43;s:15:"header_gradient";a:2:{s:6:"color1";s:7:"#0d0d0d";s:6:"color2";s:16:"rgba(13,13,13,0)";}s:15:"loader_gradient";a:2:{s:6:"color1";s:7:"#1e73be";s:6:"color2";s:7:"#00897e";}s:15:"footer_gradient";a:2:{s:6:"color1";s:7:"#1e73be";s:6:"color2";s:7:"#00897e";}s:26:"product_thumbnail_gradient";a:2:{s:6:"color1";s:7:"#1e73be";s:6:"color2";s:7:"#00897e";}s:17:"wd_title_gradient";a:2:{s:6:"color1";s:7:"#1e73be";s:6:"color2";s:7:"#00897e";}s:27:"photoz_subscription_options";a:1:{i:0;a:1:{s:19:"subscription_option";s:25:"Download Unlimited Videos";}}s:24:"product_gradient_default";a:2:{s:6:"color1";s:7:"#1e0046";s:6:"color2";s:7:"#1e0064";}s:22:"prime_gradient_default";a:2:{s:6:"color1";s:7:"#0d0d0d";s:6:"color2";s:16:"rgba(13,13,13,0)";}s:17:"parchive_gradient";a:2:{s:6:"color1";s:6:"-90deg";s:6:"color2";s:7:"#0d0d0d";}s:13:"blog_gradient";a:2:{s:6:"color1";s:7:"#1c1c1c";s:6:"color2";s:7:"#1c1c1c";}s:14:"gradient_admin";a:2:{s:6:"color1";s:7:"#1e0046";s:6:"color2";s:7:"#1e0064";}s:18:"header_layout_type";s:3:"two";s:16:"secondary_header";s:2:"on";s:15:"collapse_button";s:3:"off";s:9:"main_logo";s:85:"http://mayosis.teconcetheme.com/musicum/wp-content/uploads/sites/7/2020/04/logo-1.png";s:21:"sidebar_top_color_max";s:7:"#fb3c29";s:20:"logo_property_mobile";s:6:"height";s:18:"logo-height-mobile";s:4:"47px";s:17:"header_background";s:16:"rgba(38,38,38,0)";s:13:"main_nav_text";s:7:"#c4c4c4";s:18:"mayosis_body_color";s:7:"#0d0d0d";s:18:"regular_text_color";s:7:"#ffffff";s:17:"footer_background";s:7:"#0d0d0d";s:19:"copyright_backgroud";s:7:"#0d0d0d";s:17:"global_link_color";s:7:"#ffffff";s:22:"secondary_accent_color";s:7:"#1c1c1c";s:22:"product_grid_txt_color";s:7:"#ffffff";s:25:"product_thmub_hover_style";s:6:"style2";s:18:"sidebar_bg_main_ms";s:7:"#262626";s:23:"main_header_layout_type";s:3:"two";s:24:"header-search-form-width";s:3:"90%";s:17:"search_form_style";s:5:"ghost";s:27:"header-search-border-radius";s:3:"3px";s:26:"search_form_placeholder_cs";s:18:"e.g. Popular Songs";s:18:"main_bar_fullwidth";b:0;s:19:"header_transparency";s:11:"transparent";s:18:"ghost_border_color";s:7:"#c4c4c4";s:16:"ghost_text_color";s:7:"#c4c4c4";s:25:"header-search-form-height";s:4:"40px";s:14:"header_bg_type";s:8:"gradient";s:21:"header_gradient_angle";s:6:"-90deg";s:18:"product_bg_default";s:7:"#0d0d0d";s:23:"mayosis_secondary_color";s:7:"#1c1c1c";s:12:"accent_color";s:7:"#fb3c29";s:19:"header_accent_color";s:7:"#fb3c29";s:19:"product_thumb_hover";s:18:"rgba(13,13,13,0.8)";s:27:"container_width_desktop_big";s:3:"95%";s:12:"tag_gradient";a:2:{s:6:"color1";s:7:"#1e0046";s:6:"color2";s:7:"#1e0064";}s:18:"product_wave_audio";s:4:"show";s:17:"wave_p_background";s:7:"#262626";s:10:"wave_color";s:7:"#fb3c29";s:22:"wave_button_icon_color";s:7:"#fb3c29";s:12:"wave_padding";a:4:{s:11:"padding-top";s:3:"5px";s:14:"padding-bottom";s:3:"5px";s:12:"padding-left";s:4:"16px";s:13:"padding-right";s:4:"16px";}s:18:"audio_player_bread";s:3:"one";s:19:"product_dif_padding";a:4:{s:11:"padding-top";s:5:"120px";s:14:"padding-bottom";s:4:"80px";s:12:"padding-left";s:3:"0px";s:13:"padding-right";s:3:"0px";}s:17:"wave_button_color";s:7:"#3b3a3a";s:12:"sub_nav_text";s:7:"#c4c4c4";s:10:"sub_nav_bg";s:7:"#0e0e0e";s:12:"page_padding";a:4:{s:11:"padding-top";s:5:"120px";s:14:"padding-bottom";s:4:"80px";s:12:"padding-left";s:3:"0px";s:13:"padding-right";s:3:"0px";}s:12:"blog_padding";a:4:{s:11:"padding-top";s:5:"120px";s:14:"padding-bottom";s:4:"80px";s:12:"padding-left";s:3:"0px";s:13:"padding-right";s:3:"0px";}s:12:"blog_bg_type";s:5:"color";s:15:"blog_background";s:7:"#0d0d0d";s:22:"footer_container_width";s:3:"90%";s:24:"footer_title_border_size";s:3:"2px";s:16:"icon_in_expanded";s:2:"on";s:23:"product_audio_taxonomoy";s:4:"show";s:29:"bottom_social_part_sideheader";s:2:"on";s:21:"bottom_social_part_bg";s:7:"#1c1c1c";s:13:"instagram_url";s:0:"";s:13:"pinterest_url";s:0:"";s:12:"linkedin_url";s:0:"";s:10:"github_url";s:0:"";s:9:"slack_url";s:0:"";s:10:"envato_url";s:0:"";s:12:"dribbble_url";s:0:"";s:9:"vimeo_url";s:0:"";s:11:"spotify_url";s:0:"";s:27:"product_archive_column_grid";s:4:"four";s:20:"disable_font_awesome";s:4:"show";s:15:"wave_text_color";s:7:"#ffffff";s:18:"product_wave_style";s:5:"fixed";s:25:"title_player_button_state";s:4:"hide";s:20:"hover_two_style_type";s:5:"audio";s:16:"all_product_text";s:14:"ALL MUSIC FROM";s:25:"gap_on_audio_template_top";s:5:"120px";s:16:"product_playlist";s:6:"enable";s:31:"product_template_autmation_main";s:6:"allcat";s:27:"whole_site_product_template";s:5:"audio";s:13:"playlist_text";s:7:"#ffffff";s:23:"product_thumbnail_state";s:6:"enable";s:9:"login_url";s:47:"https://mayosis.teconcetheme.com/musicum/login/";s:19:"testimonial_grid_bg";s:7:"#292a2b";s:15:"archive_bg_type";s:5:"color";s:19:"parchive_background";s:7:"#0e0e0e";s:11:"tag_bg_type";s:5:"color";s:14:"tag_background";s:7:"#0e0e0e";s:26:"theme_widget_bg_color_main";s:7:"#262626";s:11:"wd_title_bg";s:7:"#1c1c1c";s:15:"form_field_type";s:6:"border";s:26:"global_border_radius_input";a:4:{s:15:"top-left-radius";s:3:"5px";s:16:"top-right-radius";s:3:"5px";s:18:"bottom-left-radius";s:3:"5px";s:19:"bottom-right-radius";s:3:"5px";}s:17:"blog_box_bg_color";s:19:"rgba(255,255,255,0)";s:21:"pagination_text_color";s:7:"#ffffff";s:19:"pagination_bg_color";s:7:"#1c1c1c";s:28:"pagination_active_text_color";s:7:"#ffffff";s:25:"mobile_header_icons_color";s:7:"#ffffff";s:20:"dashboard_menu_items";a:4:{i:0;s:7:"profile";i:1;s:8:"purchase";i:2;s:8:"download";i:3;s:8:"followed";}s:25:"header_buttonborder_color";s:7:"#c4c4c4";s:18:"header_button_text";s:7:"#c4c4c4";}s:7:"options";a:1:{s:9:"site_icon";s:1:"0";}s:6:"wp_css";s:2093:".user--dasboard--box, .user-dashboard-page .dasboard-tab {
+    background: #262626;
+}
+
+.user-dashboard-page .nav-pills>li.active>a, .user-dashboard-page .nav-pills>li.active>a:focus, .user-dashboard-page .nav-pills>li.active>a:hover {
+    border-bottom: 2px solid #fb3c29;
+    color: #fb3c29; 
+}
+#mayosis-sidebarnav-content header.header-stacked{
+	left:270px;
+}
+.mayosis_vendor_cat{
+	display:none;
+}
+.header-ghost-form.header-search-form input[type="text"]{
+	border-radius:50px !important;
+}
+.count-download{
+	display:none;
+}
+#comments input::placeholder, #comments textarea::placeholder{
+	color:#ffffff;
+}
+#edd_checkout_form_wrap input.edd-input::placeholder, #edd_checkout_form_wrap textarea.edd-input::placeholder, #edd_checkout_form_wrap select.edd-select::placeholder,#edd_login_form .edd-input::placeholder,#edd_register_form .edd-input::placeholder{
+		color:#ffffff;
+}
+.mayosis-modern-login {
+    background: transparent;
+    padding: 0;
+}
+.sidebar-wrapper #mayosis-sidebarnav-content{
+	overflow:hidden;
+}
+.post-promo-box.grid_dm .overlay_content_center a{
+	    background: #1c1c1c;
+    border-color: #1c1c1c;
+}
+.theme--sidebar--widget.widget_search .search-field::placeholder{
+	color: #1c1c1c !important;
+}
+.bottom_meta a:hover, .bottom_meta p a:hover,.tag_widget_single ul li a:hover{
+	color: #1c1c1c;
+}
+.sidebar--search--blog .search-form input[type=search]{
+	    border-color: #ffffff;
+    color: #ffffff;
+}
+.sidebar--search--blog .search-form input[type=search]::placeholder,.wpcf7-form-control::placeholder{
+	color: #ffffff !important;
+}
+.sidebar-search #icon-addon{
+	    background: #fff;
+    border-color: #fff;
+    color: #262626;
+}
+.dm_sidebar_input_button:after{
+	color: #262626 !important;
+}
+.vendor-blog--main {
+    background: #1c1c1c; 
+}
+.artist-items {
+    background: #262626;
+}
+.button-fill-color, .cart_add_onh {
+    padding: 10px 12px;
+    font-size: 12px !important;
+}
+.login-button{
+	border-radius:20px;
+}
+.no-results.not-found .form-control{
+	border-color: #ded8e8;
+}
+.no-results.not-found .search-btn::after{
+	    background-color: #fffefe;
+    color: #fb3c29;
+}";}

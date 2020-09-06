@@ -1,0 +1,77 @@
+a:4:{s:8:"template";s:7:"mayosis";s:4:"mods";a:120:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:9:"main-menu";i:45;s:8:"top-menu";N;}s:20:"header_elements_left";a:1:{i:0;s:4:"logo";}s:22:"header_elements_center";a:1:{i:0;s:3:"nav";}s:21:"header_elements_right";a:2:{i:0;s:11:"search-form";i:1;s:7:"account";}s:27:"header_mobile_elements_left";a:1:{i:0;s:4:"logo";}s:28:"header_mobile_elements_right";a:2:{i:0;s:4:"cart";i:1;s:6:"mobile";}s:35:"header_mobile_elements_sidebar_main";a:1:{i:0;s:9:"accordion";}s:15:"mayosis_version";d:2.5;s:18:"custom_css_post_id";i:28;s:15:"header_gradient";a:2:{s:6:"color1";s:7:"#1e73be";s:6:"color2";s:7:"#00897e";}s:15:"loader_gradient";a:2:{s:6:"color1";s:7:"#1e73be";s:6:"color2";s:7:"#00897e";}s:15:"footer_gradient";a:2:{s:6:"color1";s:7:"#1e73be";s:6:"color2";s:7:"#00897e";}s:17:"wd_title_gradient";a:2:{s:6:"color1";s:7:"#1e73be";s:6:"color2";s:7:"#00897e";}s:24:"product_gradient_default";a:2:{s:6:"color1";s:7:"#1e0046";s:6:"color2";s:7:"#1e0064";}s:27:"photoz_subscription_options";a:5:{i:0;a:1:{s:19:"subscription_option";s:30:"Download Unlimited Backgrounds";}i:1;a:1:{s:19:"subscription_option";s:29:"Vector EPS & SVG File Formats";}i:2;a:1:{s:19:"subscription_option";s:18:"No Credit Required";}i:3;a:1:{s:19:"subscription_option";s:23:"Access To Whole Library";}i:4;a:1:{s:19:"subscription_option";s:21:"30 Days Refund Policy";}}s:22:"prime_gradient_default";a:2:{s:6:"color1";s:7:"#1e0046";s:6:"color2";s:7:"#1e0064";}s:17:"parchive_gradient";a:2:{s:6:"color1";s:7:"#1e0046";s:6:"color2";s:7:"#1e0064";}s:13:"blog_gradient";a:2:{s:6:"color1";s:7:"#1e0046";s:6:"color2";s:7:"#1e0064";}s:14:"gradient_admin";a:2:{s:6:"color1";s:7:"#1e0046";s:6:"color2";s:7:"#1e0064";}s:19:"header_transparency";s:11:"transparent";s:18:"main_bar_fullwidth";b:1;s:19:"main_header_padding";a:4:{s:11:"padding-top";s:3:"0px";s:14:"padding-bottom";s:3:"0px";s:12:"padding-left";s:4:"32px";s:13:"padding-right";s:4:"32px";}s:17:"header_background";s:19:"rgba(255,255,255,0)";s:9:"main_logo";s:77:"https://teconce.com/stockpik/wp-content/uploads/sites/14/2019/09/Stockpik.svg";s:13:"menu_position";s:9:"text-left";s:13:"main_nav_text";s:7:"#ffffff";s:19:"header_accent_color";s:7:"#ffffff";s:12:"accent_color";s:7:"#00ffd1";s:17:"accent_color_text";s:7:"#02006c";s:18:"regular_text_color";s:7:"#1d134d";s:17:"search_main_color";s:7:"#ffffff";s:24:"search_accent_text_color";s:7:"#1d134d";s:24:"search_main_border_color";s:7:"#ffffff";s:15:"body_typography";a:7:{s:11:"font-family";s:9:"Open Sans";s:9:"font-size";s:4:"1rem";s:11:"line-height";s:4:"1.75";s:7:"variant";s:7:"regular";s:11:"font-backup";s:0:"";s:11:"font-weight";i:400;s:10:"font-style";s:6:"normal";}s:21:"breadcrumb_typography";a:8:{s:11:"font-family";s:7:"Poppins";s:7:"variant";s:3:"700";s:9:"font-size";s:4:"4rem";s:11:"line-height";s:4:"1.25";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:700;s:10:"font-style";s:6:"normal";}s:24:"product_title_typography";a:8:{s:11:"font-family";s:7:"Poppins";s:7:"variant";s:3:"700";s:9:"font-size";s:7:"2.25rem";s:11:"line-height";s:4:"1.25";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:700;s:10:"font-style";s:6:"normal";}s:13:"h1_typography";a:8:{s:11:"font-family";s:7:"Poppins";s:7:"variant";s:3:"700";s:9:"font-size";s:4:"3rem";s:11:"line-height";s:4:"1.25";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:700;s:10:"font-style";s:6:"normal";}s:13:"h2_typography";a:8:{s:11:"font-family";s:7:"Poppins";s:7:"variant";s:3:"700";s:9:"font-size";s:7:"2.25rem";s:11:"line-height";s:4:"1.25";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:700;s:10:"font-style";s:6:"normal";}s:13:"h3_typography";a:8:{s:11:"font-family";s:7:"Poppins";s:7:"variant";s:3:"700";s:9:"font-size";s:7:"1.75rem";s:11:"line-height";s:4:"1.35";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:700;s:10:"font-style";s:6:"normal";}s:13:"h4_typography";a:8:{s:11:"font-family";s:7:"Poppins";s:7:"variant";s:3:"700";s:9:"font-size";s:6:"1.5rem";s:11:"line-height";s:3:"1.5";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:700;s:10:"font-style";s:6:"normal";}s:13:"h5_typography";a:8:{s:11:"font-family";s:7:"Poppins";s:7:"variant";s:3:"700";s:9:"font-size";s:7:"1.25rem";s:11:"line-height";s:3:"1.5";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:700;s:10:"font-style";s:6:"normal";}s:13:"h6_typography";a:8:{s:11:"font-family";s:7:"Poppins";s:7:"variant";s:3:"700";s:9:"font-size";s:8:"1.125rem";s:11:"line-height";s:4:"1.75";s:14:"letter-spacing";s:3:"0px";s:11:"font-backup";s:0:"";s:11:"font-weight";i:700;s:10:"font-style";s:6:"normal";}s:17:"blog_comment_size";s:3:"one";s:18:"author_single_post";s:2:"on";s:19:"blog_sidebar_remove";s:4:"hide";s:28:"blog_header_content_position";s:6:"center";s:27:"blog_content_layout_manager";a:5:{i:0;s:10:"breadcrumb";i:1;s:5:"title";i:2;s:8:"category";i:3;s:6:"author";i:4;s:4:"date";}s:24:"blog_featured_visibility";s:4:"hide";s:12:"blog_bg_type";s:8:"featured";s:17:"blog_ovarlay_main";s:18:"rgba(40,40,50,0.5)";s:28:"parallax_featured_image_blog";s:3:"yes";s:12:"blog_padding";a:4:{s:11:"padding-top";s:5:"160px";s:14:"padding-bottom";s:5:"160px";s:12:"padding-left";s:3:"0px";s:13:"padding-right";s:3:"0px";}s:16:"gblog_box_radius";a:4:{s:15:"top-left-radius";s:1:"0";s:16:"top-right-radius";s:1:"0";s:18:"bottom-left-radius";s:1:"0";s:19:"bottom-right-radius";s:1:"0";}s:18:"gblog_image_radius";a:4:{s:15:"top-left-radius";s:3:"0px";s:16:"top-right-radius";s:3:"0px";s:18:"bottom-left-radius";s:3:"0px";s:19:"bottom-right-radius";s:3:"0px";}s:17:"blog_border_width";a:4:{s:9:"top-width";s:3:"1px";s:11:"right-width";s:3:"1px";s:12:"bottom-width";s:3:"1px";s:10:"left-width";s:3:"1px";}s:21:"blog_box_border_color";s:18:"rgba(29,19,77,0.1)";s:17:"blog_meta_padding";a:4:{s:3:"top";s:3:"0px";s:5:"right";s:4:"15px";s:6:"bottom";s:4:"15px";s:4:"left";s:4:"15px";}s:23:"footer_additonal_widget";s:4:"show";s:16:"copyright_footer";s:4:"hide";s:14:"copyright_type";s:7:"columed";s:19:"product_thumb_hover";s:18:"rgba(29,19,77,0.4)";s:14:"main_blog_blur";s:1:"0";s:17:"footer_background";s:7:"#02006c";s:24:"header_accent_text_color";s:7:"#02006c";s:11:"footer_text";s:7:"#ffffff";s:14:"back_to_top_bg";s:7:"#00ffd1";s:26:"product_thumbnail_gradient";a:2:{s:6:"color1";s:13:"rgba(0,0,0,0)";s:6:"color2";s:15:"rgba(0,0,0,0.7)";}s:20:"product_grid_options";s:3:"two";s:25:"product_thmub_hover_style";s:6:"style3";s:17:"thumbnail_bg_type";s:8:"gradient";s:27:"product_archive_column_grid";s:5:"three";s:26:"global_border_radius_input";a:4:{s:15:"top-left-radius";s:3:"0px";s:16:"top-right-radius";s:3:"0px";s:18:"bottom-left-radius";s:3:"0px";s:19:"bottom-right-radius";s:3:"0px";}s:28:"global_border_radius_paginav";a:4:{s:15:"top-left-radius";s:3:"0px";s:16:"top-right-radius";s:3:"0px";s:18:"bottom-left-radius";s:3:"0px";s:19:"bottom-right-radius";s:3:"0px";}s:17:"footer_field_type";s:6:"border";s:19:"footer_border_color";s:22:"rgba(255,255,255,0.52)";s:31:"product_template_autmation_main";s:6:"allcat";s:27:"whole_site_product_template";s:5:"photo";s:22:"media_subscription_box";s:6:"enable";s:24:"media_subscription_style";s:6:"styled";s:20:"photo_template_promo";s:4:"show";s:19:"photo_promobar_type";s:5:"color";s:19:"photo_template_view";s:8:"flexible";s:20:"product_photo_margin";s:4:"-20%";s:22:"photo_template_box_gap";s:6:"enable";s:31:"photo_template_backgrund_remove";s:7:"disable";s:21:"photo_template_shadow";s:7:"disable";s:18:"photo_equal_height";s:6:"enable";s:20:"photov_overlay_color";s:19:"rgba(13,17,58,0.85)";s:17:"photo_template_bg";s:7:"#5a00f0";s:18:"photo_zoom_disable";s:7:"disable";s:25:"photo_template_wrapper_bg";s:7:"#ffffff";s:22:"related_download_style";s:6:"normal";s:28:"photo_template_author_enable";s:7:"disable";s:28:"photo-video-template-padding";a:4:{s:11:"padding-top";s:5:"160px";s:14:"padding-bottom";s:5:"160px";s:12:"padding-left";s:1:"0";s:13:"padding-right";s:1:"0";}s:18:"grid_border_radius";s:1:"0";s:24:"footer_title_border_size";s:3:"2px";s:22:"media_subscription_url";s:1:"#";s:17:"license_url_media";s:1:"#";s:23:"media_subscription_text";s:35:"Subscribe To Get Unlimited Dowloads";s:20:"widget_bg_color_main";s:7:"#ffffff";s:27:"container_width_desktop_big";s:6:"1245px";s:18:"mayosis_body_color";s:7:"#ffffff";s:16:"prime_bg_default";s:7:"#d1d6e3";s:17:"hide_widget_title";s:4:"none";s:24:"sidebar_box_padding_main";a:4:{s:3:"top";s:4:"30px";s:5:"right";s:4:"30px";s:6:"bottom";s:4:"20px";s:4:"left";s:4:"30px";}s:12:"page_padding";a:4:{s:11:"padding-top";s:5:"120px";s:14:"padding-bottom";s:5:"120px";s:12:"padding-left";s:3:"0px";s:13:"padding-right";s:3:"0px";}s:19:"testimonial_grid_bg";s:7:"#ffffff";s:14:"footer_bg_type";s:5:"color";s:15:"footer_bg_image";s:78:"https://teconce.com/stockpik/wp-content/uploads/sites/14/2019/10/Rectangle.svg";s:21:"sidebar_border_radius";a:4:{s:15:"top-left-radius";s:1:"0";s:16:"top-right-radius";s:1:"0";s:18:"bottom-left-radius";s:1:"0";s:19:"bottom-right-radius";s:1:"0";}s:24:"header-search-form-width";s:5:"480px";s:28:"header-seccond-border-radius";s:1:"0";s:26:"search_form_placeholder_cs";s:21:"Search all background";s:11:"sticky_hide";s:13:"stickyenabled";s:12:"smart_sticky";s:10:"smartenble";s:11:"sticky_logo";s:77:"https://teconce.com/stockpik/wp-content/uploads/sites/14/2019/10/Stockpik.svg";s:23:"blog_archive_post_style";s:4:"grid";s:25:"mobile_header_icons_color";s:7:"#ffffff";s:19:"hide_searchbar_home";s:6:"sticky";}s:7:"options";a:1:{s:9:"site_icon";s:1:"0";}s:6:"wp_css";s:3780:".header-multiple-gradient{
+	background: linear-gradient(318.83deg, #00C2FF 54.38%, rgba(0, 255, 224, 0) 100%), linear-gradient(147.62deg, #FF2F2F 10.43%, #000460 92.78%), radial-gradient(100% 246.94% at 100% 0%, #8000FF 0%, #BA75FF 54.17%, #FF0000 100%), linear-gradient(41.17deg, #2200F2 0%, #530000 100%), linear-gradient(165.49deg, #FF0000 0%, #00FF94 74.04%), linear-gradient(318.82deg, #FF0000 0%, #0038FF 84.63%), linear-gradient(153.03deg, #00C2FF 11.12%, #FF0000 86.47%), radial-gradient(57.37% 100% at 50% 0%, #B50000 0%, #0034BB 100%);
+background-blend-mode: multiply, overlay, color-burn, screen, difference, difference, difference, normal;
+}
+.photo-video-template.product-main-header{
+	background: linear-gradient(208.66deg, #FF0099 0%, #3B0087 100%), linear-gradient(331.34deg, #DB00FF 0%, #4200FF 100%), linear-gradient(208.66deg, #FFFFFF 50.52%, rgba(0, 29, 103, 0) 100%), radial-gradient(100% 163.45% at 0% 100%, #00FF47 0%, #004AB8 49.48%, #FF0000 100%), radial-gradient(100% 225.21% at 0% 100%, #FF0000 0%, #42FF00 100%), radial-gradient(100% 140% at 100% 0%, #DBFF00 0%, #00E0FF 50.8%, #0013BA 100%);
+background-blend-mode: overlay, color-burn, multiply, difference, difference, normal;
+}
+.page_breadcrumb{
+	background: linear-gradient(217.87deg, #FFFFFF 15.51%, #01004A 100%), linear-gradient(225.56deg, rgba(255, 255, 255, 0.5) 53.13%, rgba(0, 0, 0, 0.5) 100%), radial-gradient(62.41% 100% at 50% 0%, #4200FF 0%, #000000 100%), linear-gradient(320.85deg, #20FFD7 0.37%, #93C700 100%), radial-gradient(100% 140% at 100% 0%, #EAFF6B 0%, #00E0FF 71.37%, #2200AA 100%);
+background-blend-mode: overlay, multiply, difference, difference, normal;
+}
+.search-btn::after{
+	    background-color: #00FFD1;
+}
+
+footer.main-footer{
+background: linear-gradient(141.98deg, #AD00FF 0%, #0C0056 100%), linear-gradient(141.98deg, #FA00FF 0%, rgba(0, 255, 71, 0) 100%), linear-gradient(148.17deg, #00F0FF 0%, #A80000 100%), radial-gradient(107% 142.8% at 15.71% 104.5%, #F3D0FC 0%, #1700A4 100%), radial-gradient(100.47% 100% at 50% 0%, #7300A9 0%, #00FFE0 100%), radial-gradient(100.47% 100% at 50% 0%, #7300A9 0%, #00FFE0 100%), linear-gradient(148.17deg, #B7D500 0%, #2200AA 100%);
+background-blend-mode: overlay, color, overlay, difference, color-dodge, difference, normal;
+}
+.product-archive-breadcrumb{
+	background: linear-gradient(180deg, #1400FF 0%, #000000 100%), linear-gradient(167.3deg, #33FF00 0%, #FF003D 74.04%), linear-gradient(351deg, #F3D0FC 7.52%, #1700A4 77.98%), linear-gradient(202.85deg, #A90000 12.99%, #00FFE0 87.21%), linear-gradient(165.48deg, #B7D500 15.35%, #2200AA 89.57%);
+background-blend-mode: overlay, difference, difference, difference, normal;
+}
+.bd-left-side-field input{
+	height:70px;
+	margin-bottom:30px;
+	max-height:70px;
+}
+.bd-left-side-field .wpcf7-submit.dm_submit_button {
+    min-width: 155px;
+    color: #1D134D !important;
+    height: 60px;
+}
+.widget_mayosis_payment_icons h4{
+	border-bottom:none;
+}
+.footer-sidebar.dm_subscribe_widget{
+	margin-bottom:0;
+}
+.footer-sidebar ul {
+    margin: 20px 0 0;
+    padding: 0;
+}
+.footer-sidebar ul li a{
+	line-height:32px;
+}
+.media-template-wrapper{
+	background:#D1D6E3;
+}
+.fes--widget--author--style1 .mayosis-author-details {
+    padding-top: 0;
+}
+.subscribe-block-btn:hover{
+	color: inherit;
+    filter: contrast(125%) brightness(105%);
+}
+.label_pricing{
+	color: #1c134d;
+}
+.product-search-form input[type=search], .product-search-form input[type=text] {
+    position: relative;
+    z-index: 100;
+    font-weight: 400;
+    margin: 0;
+    color: rgba(0, 0, 0, .7);
+    font-size: 14px;
+    border-radius: 0 3px 3px 0;
+}
+.dm_clients ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: stretch;
+    align-items: center;
+}";}
